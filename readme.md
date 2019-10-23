@@ -10,6 +10,4 @@
   <li>React Navigation</li>
 </ul>
 
-<video width="320" height="240" controls>
-  <source src="repositories.mp4" type="video/mp4">
-</video>
+<video src="repositories.mp4" width="320" height="200" controls preload></video>
