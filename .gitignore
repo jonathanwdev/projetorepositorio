@@ -1,5 +1,6 @@
 web/node_modules
 mobile/node_modules
 mobile/ios
+mobile/yarn-error.log
 
 
